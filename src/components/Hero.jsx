@@ -85,7 +85,7 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.6 }}
               className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6"
             >
-              <span className="gradient-text">Yu Wang</span>
+              <span className="gradient-text">Yintao Li</span>
             </motion.h1>
 
             <motion.div
@@ -98,7 +98,7 @@ const Hero = () => {
               <TypewriterEffect
                 strings={[
                   'Chemist',
-                  'Medical Researcher',
+                  'Material Researcher',
                   'AI Researcher',
                   'Problem Solver',
                   'Creative Thinker'
